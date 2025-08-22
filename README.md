@@ -55,6 +55,63 @@ The **DenverBricks** (also referred to as Colorado DataBricks) user group is a n
 
 ---
 
+## Call for Speakers 🎤  
+
+We’re always looking for community members who want to share their knowledge and experiences!  
+Whether you’re just getting started or have years of production experience, your perspective can help others learn.  
+
+### Session Formats  
+- **30-minute Intro Topics** – Quick overviews, tips & tricks, case studies, or lightning talks.  
+- **60-minute Full Sessions** – Standard presentations, walkthroughs, or demos with time for Q&A.  
+- **90-minute Deep Dives** – Extended sessions that explore advanced topics, architectures, or hands-on scenarios in detail.  
+
+### Topics We’re Interested In  
+- Core **Databricks Lakehouse** features  
+- **Delta Lake** best practices  
+- **Data engineering** and orchestration patterns  
+- **Machine learning & AI/ML pipelines** with MLflow  
+- **Streaming & real-time analytics**  
+- **Adjacent technologies**: Azure, AWS, GCP integrations, dbt, Fabric, Spark, Python, SQL, etc.  
+
+If you’d like to present, reach out to us! We’re happy to help you shape your talk, provide feedback, and make sure you feel supported.  
+---
+
+## Sponsorship Opportunities 💡  
+
+DenverBricks is a free, volunteer-run community group. Sponsorships help us cover meeting space, refreshments, technology, and community-building activities.  
+We offer four medallion sponsorship levels:  
+
+### 🟤 Bronze Sponsor  
+- Recognition on event slides and Meetup page  
+- Logo placement on group website  
+- One social media thank-you per quarter  
+
+### ⚪ Silver Sponsor  
+Includes all Bronze benefits **plus**:  
+- Recognition during event opening remarks  
+- Option to provide swag or raffle items  
+- Two social media thank-yous per quarter  
+
+### 🟡 Gold Sponsor  
+Includes all Silver benefits **plus**:  
+- Logo featured on event banners/materials  
+- Priority option to host an in-person meeting at your office  
+- Four social media thank-yous per quarter  
+
+### 💎 Diamond Sponsor  
+Includes all Gold benefits **plus**:  
+- Opportunity to deliver a 5-minute welcome at an event (non-salesy)  
+- Prominent logo placement on all promotional materials  
+- Ongoing recognition as a **Community Partner**  
+- Six social media thank-yous per quarter  
+
+---
+
+**Interested in sponsoring?**  
+Please contact us at *[TBD]* for details. Sponsorships directly support the community and help us grow the Denver Databricks ecosystem.  
+
+---
+
 ## Why Support This Group?  
 - Builds stronger local Databricks community ties.  
 - Creates a trusted peer network for sharing platform knowledge.  
