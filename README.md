@@ -100,6 +100,10 @@ Whether you’re just getting started or have years of production experience, yo
 - **Adjacent technologies**: Azure, AWS, GCP integrations, dbt, Fabric, Spark, Python, SQL, etc.  
 
 If you’d like to present, reach out to us! We’re happy to help you shape your talk, provide feedback, and make sure you feel supported.  
+
+[DenverBricks CFS Page](https://sessionize.com/denverbricks-colorado-databricks-user)
+
+
 ---
 
 ## Sponsorship Opportunities 💡  
